@@ -1,0 +1,3 @@
+g.drawLine (10, 20, 100, 50: (raiz quadrada de (x2-x1)² + (y2-y1)²) ≈ 95 pixels
+g.drawRect (10, 10, 8, 5): 2 × (8 + 5) = 26 pixels
+g.fillRect (10, 10, 8, 5): 8 × 5 = 40 pixels
